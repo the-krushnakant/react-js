@@ -1,3 +1,5 @@
+First of all, unzip the node_modules folder and put the files at frontend/node_modules . 
+
 To view the website (For Windows) :
 Open Powershell window in the current folder (Shift+Right-click > Open Powershell Window here), 
 and write 
