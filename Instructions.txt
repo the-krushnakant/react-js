@@ -1,0 +1,11 @@
+To view the website (For Windows) :
+Open Powershell window in the current folder (Shift+Right-click > Open Powershell Window here), 
+and write 
+py manage.py runserver
+
+Open Powershell window in the frontend folder , and write
+npm run dev
+
+Then open localhost:8000 in your browser
+
+There you'll find list of team names.
